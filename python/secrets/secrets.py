@@ -8,3 +8,5 @@ TWITTER_ACCESS_TOKEN = "101521180-wi5CJ3qLBikCSPN0WZJl8g7sMhYy7hCRkvkAwqGP"
 
 # some test changes to test something something
 AWS_SECRET_KEY = "AKIAJNKASE1234ARQR134ASDA"
+
+auth = "9cmqJRWMcU5aD907zCz8SMKmbNR9hesNzC7FbuXb"
